@@ -13,8 +13,9 @@ Notes:
 -----
 **Use at your own risk!**
 
+All of the master pages, styles, and images are loaded from the master page gallery. Please add the files to your master page gallery and publish a major version of each before trying to use them.
+
 There are several versions of my Starter Master Pages:
-* All of the master pages, styles, and images are loaded from the master page gallery. Please add the files to your master page gallery and publish a major version of each before trying to use them.
 * **Starter PubCollab** - A good starting place for SharePoint Server intranet portal or team sites that have Publishing enabled. Uses the Publishing Ribbon Control.
 * **Starter Publishing** - An example publishing portal without as much consideration for collaboration sites. Uses the Publishing Ribbon Control.
 * **Starter Team** - Starter Master Page for standard team sites. Uses the full Ribbon control
