@@ -5,6 +5,8 @@ Project Description
 ------
 Starter Master Pages for SharePoint are a clean, commented starting point for creating your own SharePoint branding. 
 
+**Note: At this point SP2016 has just released to RTM. These master pages have not been thoroughly tested, please let me know if you find any problems or help me fix them here on GitHub.**
+
 Project Details
 ------
 Like my previous SharePoint 2013 starter master pages, I have put together a few minimal master pages that can be used to start a SharePoint 2016 Branding project. They contain only very minimal HTML styling in order to accommodate some of the specific needs of SharePoint 2016 and are commented throughout. I hope you find them useful as a good starting point for creating branded SharePoint sites. I'm pretty new to GitHub but if you want to improve upon them feel free to share here.
