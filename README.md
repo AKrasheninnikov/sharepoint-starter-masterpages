@@ -1,0 +1,20 @@
+# sharepoint-starter-masterpages
+Starter Master Pages for SharePoint 2016
+
+Project Description
+------
+Starter Master Pages for SharePoint are a clean, commented starting point for creating your own SharePoint branding. 
+
+Project Details
+------
+Like my previous SharePoint 2013 starter master pages, I have put together a few minimal master pages that can be used to start a SharePoint 2016 Branding project. They contain only very minimal HTML styling in order to accommodate some of the specific needs of SharePoint 2016 and are commented throughout. I hope you find them useful as a good starting point for creating branded SharePoint sites. I'm pretty new to GitHub but if you want to improve upon them feel free to share here.
+
+Notes:
+-----
+*Use at your own risk!*
+
+There are several versions of my Starter Master Pages:
+* All of the master pages, styles, and images are loaded from the master page gallery. Please add the folder StarterBranding to your master page gallery to start with.
+* Starter PubCollab - A good starting place for SharePoint Server intranet portal or team sites that have Publishing enabled. Uses the Publishing Ribbon Control.
+* Starter Publishing - An example publishing portal without as much consideration for collaboration sites. Uses the Publishing Ribbon Control.
+* Starter Team - Starter Master Page for standard team sites. Uses the full Ribbon control
