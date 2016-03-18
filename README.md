@@ -11,7 +11,7 @@ Like my previous SharePoint 2013 starter master pages, I have put together a few
 
 Notes:
 -----
-*Use at your own risk!*
+**Use at your own risk!**
 
 There are several versions of my Starter Master Pages:
 * All of the master pages, styles, and images are loaded from the master page gallery. Please add the files to your master page gallery and publish a major version of each before trying to use them.
