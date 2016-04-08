@@ -200,7 +200,11 @@
 
 							</h1>
 						</div>
-					
+						<!-- ===== STARTER: Status bar / also used for notifications in 365 ======================================= -->
+						<SharePoint:AjaxDelta id="DeltaPageStatusBar" BlockElement="true" runat="server">
+							<div id="pageStatusBar"></div>
+						</SharePoint:AjaxDelta>
+						
 						<SharePoint:AjaxDelta ID="DeltaPlaceHolderMain" IsMainContent="true" runat="server">
 							<!-- ===== STARTER: Main Placeholder gets replaced with content of the page ======================================= -->
 							<asp:ContentPlaceHolder ID="PlaceHolderMain" runat="server" />

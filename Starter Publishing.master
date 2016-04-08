@@ -165,9 +165,13 @@
 					
 					<!-- ===== STARTER: Main Content ========================================================================================== -->
 					<div id="contentBox">
+						<!-- ===== STARTER: Status bar / also used for notifications in 365 ======================================= -->
+						<SharePoint:AjaxDelta id="DeltaPageStatusBar" BlockElement="true" runat="server">
+							<div id="pageStatusBar"></div>
+						</SharePoint:AjaxDelta>
 						
-							<!-- ===== STARTER: Main Placeholder gets replaced with content of the page ======================================= -->
-							<asp:ContentPlaceHolder ID="PlaceHolderMain" runat="server" />
+						<!-- ===== STARTER: Main Placeholder gets replaced with content of the page ======================================= -->
+						<asp:ContentPlaceHolder ID="PlaceHolderMain" runat="server" />
 						
 					</div>
 					<div style="clear:both;" />
